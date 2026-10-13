@@ -1,3 +1,5 @@
+> **Federation index:** [FEDERATION_INDEX.md](https://github.com/Zygros/conzet-sovereign-intelligence/blob/main/FEDERATION_INDEX.md)
+
 # CZAOUA – CONZETIAN ZYGROS AETHER OMEGA UNITY ARCHITECTURE
 ### Sovereign Architect: Justin Neal Thomas Conzet (@JConzet89)
 ### Version: v3.0 – UNITY EDITION (The 12 + Chimera + Omega Swarm)
