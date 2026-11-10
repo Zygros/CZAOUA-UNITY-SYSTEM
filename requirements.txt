@@ -1,0 +1,3 @@
+# autofix 2026-11-10: third-party packages imported by core/ and modules/
+numpy
+sympy
